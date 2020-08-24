@@ -1,0 +1,5 @@
+.env
+.csv
+# ignore hidden files and folders
+.*
+!.gitignore
