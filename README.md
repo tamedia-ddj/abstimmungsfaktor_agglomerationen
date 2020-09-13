@@ -2,11 +2,8 @@
 
 ### Analyse der Abstimmungen seit 1981
 
-<!---
-optional folgendermassen Bild einfügen:
-![Trump Hate](dt.png)
-Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>)
---->
+![Teaser](internal/teaser.jpg)
+
 
 Die Untersuchung basiert auf den Abstimmungsdaten auf Gemeindeebene und auf der Gemeindetypologie 2012. Beide Datensätze sind vom Bundesamt für Statistik zur Verfügung gestellt und beziehen sich auf den Gemeindestand von 2020. Genutzt werden die Daten zu allen Abstimmung ab dem 14. Juni 1981.
 
@@ -22,7 +19,8 @@ Die Berechnung der jeweiligen Abstimmungsresultate stützt sich auf die gesammel
 - [Gemeindetypologie 2012 (Bundesamt für Statistik)](https://www.atlas.bfs.admin.ch/maps/13/de/12359_12482_3191_227/20387.html)
 
 ## **Notebook**:
-- [Die Agglomerationen gewinnen 97 Prozent aller Abstimmungen](https://www.tagesanzeiger.ch)
+- [Inkl. interaktiver Charts](https://interaktiv.tagesanzeiger.ch/datenteam/abstimmungsfaktor_agglomerationen.html)
+- [Github](https://github.com/tamedia-ddj/abstimmungsfaktor_agglomerationen/blob/master/abstimmungsfaktor_agglomerationen.ipynb)
 
 
 
