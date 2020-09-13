@@ -1,5 +1,5 @@
 .env
-.csv
 # ignore hidden files and folders
 .*
+/temp
 !.gitignore
