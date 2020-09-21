@@ -12,7 +12,7 @@ Die Einteilung der Gemeinden zu den drei Siedlungstypen beruht auf einem engen B
 Die Berechnung der jeweiligen Abstimmungsresultate stützt sich auf die gesammelten Ja- und Nein-Stimmen pro Region. So kann ermittelt werden, ob Regionen als Ganzes zu einer Vorlage Ja oder Nein gestimmt hätten.
 
 ## **Artikel**:
-- [Die Agglomerationen gewinnen 97 Prozent aller Abstimmungen](https://www.tagesanzeiger.ch)
+- [Die Agglomerationen gewinnen 97 Prozent aller Abstimmungen](https://www.tagesanzeiger.ch/agglomerationen-gewinnen-97-prozent-der-abstimmungen-118738304502)
 
 ## **Datenquelle(n)**: 
 - [Abstimmungsdaten auf Gemeinde Ebene (Bundesamt für Statistik)](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen.assetdetail.14007758.html)
